@@ -66,6 +66,7 @@ header ul{
 		position: relative;
 		float: right;
 		padding: 0.2rem 0;
+		z-index: 100;
 	}
 	header ul li:last-child{
 		text-align: center;
